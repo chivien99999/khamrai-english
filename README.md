@@ -33,10 +33,8 @@ use Standard.
 
 ## Notes
 
-- Plays in DuckStation. Not tested on real hardware.
 - In-game memory card saves carry over between Standard and StatFloor. Emulator save states don't carry over between
   versions.
-- The movies have no dialogue, so there is nothing to subtitle.
 - Some long boxes scroll a line, and a few sentences continue into the next box. The original does the same.
 - The memory card save title holds up to 19 letters of the place name. That's the card's limit; the in-game save
   list shows the full name.
