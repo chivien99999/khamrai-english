@@ -33,11 +33,7 @@ use Standard.
 
 ## Notes
 
-- In-game memory card saves carry over between Standard and StatFloor. Emulator save states don't carry over between
-  versions.
 - Some long boxes scroll a line, and a few sentences continue into the next box. The original does the same.
-- The memory card save title holds up to 19 letters of the place name. That's the card's limit; the in-game save
-  list shows the full name.
 - Don't share pre-patched disc images.
 
 Khamrai is © Namco. This is an unofficial fan translation, not affiliated with or endorsed by Namco.
