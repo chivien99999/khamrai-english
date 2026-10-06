@@ -6,6 +6,10 @@ The game is fully translated and polished, with respect to the original script. 
 for, along with every menu, item, kamui, enemy, battle message and place name, and every in-game image (TIM) is
 translated. All text displays cleanly in the game's own colours and layout. No known bugs or graphical artifacts.
 
+No compromises. Not a single line was shortened, cut or watered down to fit a text box; every line carries its full
+meaning. The source is treated with respect: the characters keep their voices, the world keeps its terms, and
+nothing is added that the original doesn't say.
+
 ## Patching
 
 Apply the `.xdelta` to your own clean Japanese disc image with any xdelta patcher (Delta Patcher, xdelta UI, or
